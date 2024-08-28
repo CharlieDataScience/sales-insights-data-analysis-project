@@ -20,6 +20,9 @@ The dataset used in this project consists of several related tables, which are d
 
 The data model follows a star schema, where the central **Transactions** table is related to the **Customers**, **Markets**, **Products**, and **Date** tables. This allows for comprehensive sales analysis from different perspectives.
 
+### Database
+SQLite was used as the database to store and manage the datasets. The lightweight nature of SQLite made it ideal for handling the structured data used in this project, enabling efficient querying and data management.
+
 ## Analysis and Results
 
 The dashboard provides answers to the following key questions:
@@ -45,12 +48,14 @@ The dashboard provides answers to the following key questions:
 - **Power BI**: Used for creating the interactive dashboard and data visualization.
 - **Excel/CSV**: For initial data manipulation and cleaning.
 - **Power Query**: For data transformation within Power BI.
+- **SQLite**: Used for storing and managing the data, enabling efficient querying and data manipulation.
 
 ## How to Run the Project
 
 1. **Clone the Repository**: `git clone https://github.com/CharlieDataScience/sales-insights-data-analysis-project.git`
-2. **Open the Dashboard in Power BI**: Open the `.pbix` file in Power BI Desktop to explore the dashboard.
-3. **Interact with the Dashboard**: Use filters and visualizations to analyze the data based on different criteria.
+2. **Load Data into SQLite**: Ensure that the datasets are correctly loaded into an SQLite database.
+3. **Open the Dashboard in Power BI**: Open the `.pbix` file in Power BI Desktop to explore the dashboard.
+4. **Interact with the Dashboard**: Use filters and visualizations to analyze the data based on different criteria.
 
 ## Conclusions
 
