@@ -1,5 +1,7 @@
 # Sales Analysis Project: Power BI Dashboard
 
+![image](https://github.com/user-attachments/assets/37b38e7f-c598-476e-8b01-0f7cb3fb6582)
+
 ## Project Description
 
 This project aims to analyze a company's sales over several years using an interactive dashboard in Power BI. The analysis includes key information on revenue, sales quantity, top markets, best-selling products, and major customers. Through this dashboard, valuable insights can be obtained to support strategic decision-making.
