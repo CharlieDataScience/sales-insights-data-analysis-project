@@ -1,6 +1,6 @@
 # Sales Analysis Project: Power BI Dashboard
 
-![image](https://github.com/user-attachments/assets/37b38e7f-c598-476e-8b01-0f7cb3fb6582)
+![image](https://github.com/user-attachments/assets/5aa5496d-c4a2-403b-8a9d-fb3ca812776a)
 
 ## Project Description
 
@@ -37,7 +37,7 @@ The dashboard provides answers to the following key questions:
     - The trend shows fluctuations, with significant peaks in mid-2018 and early 2019, followed by a decline in revenue towards 2020.
 3. **What are the best-selling products?**
     
-    - The unnamed product (marked as "En blanco") generates the most revenue, with 5627.53 million, followed by **Prod040** and **Prod159**.
+    - The product318 generates the most revenue, with 827.61 thousands of dollars, followed by **Prod316** and **Prod324**.
 4. **Who are the top customers?**
     
     - **Electricalsara Stores** is the customer generating the most revenue, with a total of 4960.00 million.
